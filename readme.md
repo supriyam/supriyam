@@ -2,7 +2,7 @@
 
 **Senior Full-Stack Engineer** · React · TypeScript · .NET/C# · Node.js · Python · Azure · LLM Integration
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-supriya--reddy--machanna-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/supriya-reddy-machanna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-supriya--reddy--machanna-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/supriya-reddy-machanna-a9a667294/)
 [![Email](https://img.shields.io/badge/Email-supriya.reddy2617%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:supriya.reddy2617@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c6fcd?style=flat)](https://supriyam.github.io/portfolio/)
 ![Location](https://img.shields.io/badge/Location-Fremont%2C%20CA%20%7C%20Remote-3dbfa0?style=flat)
