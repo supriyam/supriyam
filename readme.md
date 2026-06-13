@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-supriya--reddy--machanna-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/supriya-reddy-machanna)
 [![Email](https://img.shields.io/badge/Email-supriya.reddy2617%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:supriya.reddy2617@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c6fcd?style=flat)](https://supriyam.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c6fcd?style=flat)](https://supriyam.github.io/portfolio/)
 ![Location](https://img.shields.io/badge/Location-Seattle%2C%20WA%20%7C%20Remote-3dbfa0?style=flat)
 ![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat)
 
